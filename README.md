@@ -2,8 +2,7 @@
 
 Entusiasta de programação apaixonado por desafios e sempre busco novas oportunidades para aprimorar minhas habilidades.
 
-![andersoncp123 GitHub stats](https://github-readme-stats.vercel.app/api?username=andersoncp123&show_icons=true&theme=neon)
-
+![andersoncp123 GitHub stats](https://github-readme-stats.vercel.app/api?username=andersoncp123&show_icons=true&theme=transparent&border_color=Fea1b6&rank_icon=github&include_all_commits=true)
 
 ## Tech Stack 🚀
 ![andersoncp123 GitHub stats](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
