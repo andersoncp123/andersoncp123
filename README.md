@@ -1,6 +1,6 @@
 ### Olá! Sou Anderson André 👋
 
-Entusiasta de programação apaixonado por desafios e sempre busco novas oportunidades para aprimorar minhas habilidades.
+Entusiasta de programação apaixonado por desafios e sempre em busca de novas oportunidades para aprimorar minhas habilidades.
 
 ![andersoncp123 GitHub stats](https://github-readme-stats.vercel.app/api?username=andersoncp123&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&hide=contribs&locale=pt-br)
 
