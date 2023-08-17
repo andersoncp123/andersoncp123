@@ -13,9 +13,11 @@ Entusiasta de programação apaixonado por desafios e sempre busco novas oportun
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Contatos 🌐
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersoncp321@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-andr%C3%A9-aa7a43249/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/andersoncp123)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/andersoncp123/)
+
 
 ### Repositórios Favoritados
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andersoncp123&repo=Beecrowd&border_color=407c85&theme=transparent)](https://github.com/andersoncp123/Beecrowd)
