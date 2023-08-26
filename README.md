@@ -8,9 +8,7 @@ Entusiasta de programação apaixonado por desafios e sempre em busca de novas o
 ## Tecnologias 🚀
 ![andersoncp123 GitHub stats](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![andersoncp123 GitHub stats](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![andersoncp123 GitHub stats](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![andersoncp123 GitHub stats](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Contatos 🌐
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersoncp321@gmail.com)
