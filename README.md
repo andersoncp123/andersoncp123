@@ -3,12 +3,14 @@
 Entusiasta de programação apaixonado por desafios e sempre em busca de novas oportunidades para aprimorar minhas habilidades.
 
 ![andersoncp123 GitHub stats](https://github-readme-stats.vercel.app/api?username=andersoncp123&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&hide=contribs&locale=pt-br)
+![andersoncp123 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncp123&theme=blue-green)
 
 
 ## Tecnologias 🚀
 ![andersoncp123 GitHub stats](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![andersoncp123 GitHub stats](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![andersoncp123 GitHub stats](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### Contatos 🌐
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersoncp321@gmail.com)
