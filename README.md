@@ -3,7 +3,7 @@
 Entusiasta de programação apaixonado por desafios e sempre em busca de novas oportunidades para aprimorar minhas habilidades.
 
 ![andersoncp123 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncp123&theme=transparent&border_color=407c85)
-![andersoncp123 GitHub stats](https://github-readme-stats.vercel.app/api?username=andersoncp123&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&hide=contribs&locale=pt-br)
+![andersoncp123 GitHub stats](https://github-readme-stats.vercel.app/api?username=andersoncp123&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&locale=pt-br)
 
 
 ## Tecnologias 🚀
