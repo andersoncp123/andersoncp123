@@ -2,10 +2,10 @@
 
 Entusiasta de programação apaixonado por desafios e sempre em busca de novas oportunidades para aprimorar minhas habilidades.
 
-<p align="center">
-  <img height="195px" style="margin-right: 50px;" src="https://github-readme-stats.vercel.app/api?username=andersoncp123&theme=transparent&border_color=407c85" alt="Anderson github stats" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncp123&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&locale=pt-br" />
-</p>
+<div>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=andersoncp123&theme=transparent&border_color=407c85" alt="Anderson github stats" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncp123&show_icons=true&theme=transparent&border_color=407c85&rank_icon=github&include_all_commits=true&locale=pt-br" />  
+</div>
 
 ### 🧰 Languages and Tools
 
